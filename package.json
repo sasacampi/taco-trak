@@ -17,6 +17,8 @@
     "@expo/vector-icons": "^14.0.2",
     "@react-navigation/native": "^7.0.14",
     "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
     "expo": "~52.0.35",
     "expo-font": "~13.0.3",
     "expo-linking": "~7.0.5",
@@ -25,6 +27,9 @@
     "expo-status-bar": "~2.0.1",
     "expo-system-ui": "~4.0.8",
     "expo-web-browser": "~14.0.2",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.1",
+    "mongoose": "^8.10.1",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-native": "0.76.7",
@@ -41,5 +46,16 @@
     "react-test-renderer": "18.3.1",
     "typescript": "~5.3.3"
   },
-  "private": true
+  "private": true,
+  "description": "��#\u0000 \u0000t\u0000a\u0000c\u0000o\u0000-\u0000t\u0000r\u0000a\u0000k\u0000\r\u0000 \u0000",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasacampi/taco-trak.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/sasacampi/taco-trak/issues"
+  },
+  "homepage": "https://github.com/sasacampi/taco-trak#readme"
 }
